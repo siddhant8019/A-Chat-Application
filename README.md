@@ -17,7 +17,7 @@ Provide a concise overview of what your project is about. Mention its purpose, k
 
 ## Screenshots
 
-![Screenshot 1](An_image_of_a_Chat_application2.png)
+![Screenshot 1](An_image_of_a_Chat_application.png)
 
 ![Screenshot 2](An_image_of_a_Chat_application1.png)
 
