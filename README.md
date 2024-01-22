@@ -13,19 +13,11 @@ Provide a concise overview of what your project is about. Mention its purpose, k
 - Upload photos and videos (cannot upload multiple files).
 
 
-🙂Simple What's APP clone!
+## 🙂Simple What's APP clone!
+
 ## Screenshots
 
-![Screenshot 1](An_image_of_a_Chat_application1.png)
-*Caption for Screenshot 1*
+![Screenshot 1](An_image_of_a_Chat_application2.png)
 
-![Screenshot 2](An_image_of_a_Chat_application2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](An_image_of_a_Chat_application1.png)
 
-## Installation
-
-If applicable, provide instructions on how to install your project or dependencies.
-
-```bash
-# Example installation command
-npm install
