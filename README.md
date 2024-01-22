@@ -13,10 +13,10 @@ Provide a concise overview of what your project is about. Mention its purpose, k
 
 ## Screenshots
 
-![Screenshot 1](An image of a Chat application1.png)
+![Screenshot 1](An_image_of_a_Chat_application1.png)
 *Caption for Screenshot 1*
 
-![Screenshot 2](An image of a Chat application2.png)
+![Screenshot 2](An_image_of_a_Chat_application2.png)
 *Caption for Screenshot 2*
 
 ## Installation
